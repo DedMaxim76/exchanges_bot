@@ -7,3 +7,4 @@ loader~=2017.9.11
 requests~=2.25.1
 matplotlib~=3.3.4
 numpy~=1.20.1
+requests_async
